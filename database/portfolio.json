@@ -1,24 +1,28 @@
 {
   "personalInfo": {
     "displayName": "",
-    "name": "Yash Chawla",
-    "contactNumber": "9876598765",
+    "name": "Deepak Pahawa",
+    "contactNumber": "9364001234",
     "email": "yashchawla@gmail.com",
     "socialMedia": {
-      "linkedIn": "https://www.linkedin.com/in/yashchawla030/",
-      "github": "https://github.com/YashChawla030",
-      "youtube": ""
+      "linkedIn": "https://www.linkedin.com/in/deepakpahawa/",
+      "github": "",
+      "youtube": "https://www.linkedin.com/in/deepakpahawa/",
+      "xdotcom": "https://www.linkedin.com/in/deepakpahawa/",
+      "instagram": "https://www.linkedin.com/in/deepakpahawa/",
+      "facebook": "https://www.linkedin.com/in/deepakpahawa/"
     },
-    "resumeName": "YashChawla-Resume.pdf"
+    "resumeName": "Deepak Pahawa_CV.docx",
+    "gender": "Female"
   },
   "heroInfo": {
     "displayName": "",
-    "message": "Hey, I am Yash!",
-    "introduction": "Software Developer.,  Frontend Developer., Backend Developer.",
-    "description": "I am expert at crafting optimized web solutions and staying up-to-date with the latest technologies. My goal is to deliver high-quality, efficient, and user-friendly applications that exceed expectations."
+    "message": "Hi! I am Yash.",
+    "introduction": "A Full Stack Engineer",
+    "description": "I craft optimized web solutions for exceptional user experiences. Delivering high-quality, efficient, and user-friendly applications that exceed expectations. Passionate about building digital products that surpass client goals. Let's connect!"
   },
   "skillsInfo": {
-    "displayName": "Skills",
+    "displayName": "Tools",
     "skills": [
       {
         "name": "TypeScript",
@@ -42,56 +46,103 @@
       },
       {
         "name": "ReactJS",
-        "rating": 3
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
       }
     ]
   },
   "projectsInfo": {
-    "displayName": "Experience",
+    "displayName": "Timeline",
     "projects": [
       {
-        "projectName": "Intuit Quickbooks",
-        "designation": "Lead Software Engineer",
-        "link": "https://quickbooks.intuit.com/",
+        "timeline": "Jul'04-Jun'07",
+        "projectName": "Intuit Quickbooks Online",
+        "headline1": "Intuit Quickbooks Online",
+        "headline2": "I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends . I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends",
+        "designation": "Software Engineer",
+        "link": {
+          "linkUrl": "https://originui.com/badge",
+          "linkText": "Click here for the Project"
+        },
+        "cover": "",
         "skills": "ReactJS, TypeScript, Redux, PWA",
         "companyName": "Intuit",
-        "timeline": "Oct'23 - Jan'25",
-        "headline1": "I worked here as a SE",
-        "headline2": "I've managed the team of 5 members",
+        "clientName": "",
         "images": [
-          "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/Intuit%20Quickbooks.png",
-          "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/lowes.png",
-          "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/Webex.png"
-        ]
+          {
+            "fileName": "cartoon_male_who_is_professional_sitting_at.jpeg",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/cartoon_male_who_is_professional_sitting_at.jpeg"
+          }
+        ],
+        "rank": "1"
       },
       {
-        "timeline": "2020-21",
-        "projectName": "Intuit Quickbooks",
-        "headline1": "5th & 9th floor DLF Techno park",
-        "headline2": "Gachibowli",
-        "designation": "Senior Software Engineer",
-        "link": "https://quickbooks.intuit.com/",
-        "cover": "",
-        "skills": "Java, JavaScript, Next.JS, React.JS",
-        "companyName": "Microsoft",
-        "clientName": "Microsoft",
-        "images": [
-          "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/Webex.png",
-          "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/lowes.png"
-        ]
-      },
-      {
-        "timeline": "2015-20",
-        "projectName": "Intuit Quickbooks",
-        "headline1": "I was the Champion at Intuit",
-        "headline2": "I've managed a team of 8 Software Engineers.",
-        "designation": "Software Engineer",
+        "timeline": "2022-24",
+        "projectName": "Lowe's Cart",
+        "headline1": "I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends . I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends",
+        "headline2": "I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends . I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends",
+        "designation": "Lead Software Engineer",
         "link": "",
         "cover": "",
-        "skills": "Java, Selenium, Webdriver",
-        "companyName": "Altimetrik",
-        "clientName": "Intuit",
-        "images": []
+        "skills": "ReactJS, TypeScript, Redux, PWA",
+        "companyName": "Lowe's",
+        "clientName": "",
+        "images": [
+          {
+            "fileName": "cartoon_male_who_is_professional_sitting_at.jpeg",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/cartoon_male_who_is_professional_sitting_at.jpeg"
+          }
+        ],
+        "rank": "2"
+      }
+    ]
+  },
+  "qualificationInfo": {
+    "displayName": "Qualifications",
+    "qualifications": [
+      {
+        "timeline": "2004-07",
+        "courseName": "Bachelor of CO",
+        "instituteName": "H.N.B. Garhwal University, Srinagar, UK",
+        "specializedIn": "Mathematics, Physics, Chemistry",
+        "yearPassout": "2007",
+        "headline1": "Pursued B.SC specialized in Mathematics",
+        "headline2": "Won Mathematics quiz as 1st Prize",
+        "cgpa": "9.5",
+        "link": {
+          "linkText": "Degree",
+          "linkUrl": "https://github.com/"
+        },
+        "images": [
+          {
+            "fileName": "cartoon_professional_girl_who_is_indian_sitting.jpeg",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/cartoon_professional_girl_who_is_indian_sitting.jpeg"
+          },
+          {
+            "fileName": "cartoon_male_who_is_professional_sitting_at.jpeg",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/cartoon_male_who_is_professional_sitting_at.jpeg"
+          }
+        ],
+        "rank": "3"
       }
     ]
   }
