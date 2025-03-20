@@ -1,5 +1,4 @@
 import { create } from "zustand";
-import { serverRoutes } from "@/lib/constants";
 import {
   HeroType,
   PersonalInfoType,
@@ -16,6 +15,7 @@ import {
   initialSkillsState,
   initialAchievementState,
 } from "portfolioui/state";
+import { serverRoutes } from "@/lib/constants";
 
 export interface PortfolioType {
   personalInfo: PersonalInfoType;

@@ -17,9 +17,9 @@ export const Projects = () => {
       projectsInfo={projectsInfo}
       qualificationInfo={qualificationInfo}
       isLoading={isLoading}
-      className="bg-white dark:bg-black"
-      circleClassName="bg-violet-300 dark:bg-violet-300"
-      lineClassName="from-violet-700 via-violet-600"
+      className="bg-background"
+      circleClassName="bg-blue-300 dark:bg-blue-300"
+      lineClassName="from-blue-700 via-blue-600"
     />
   );
 };

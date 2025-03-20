@@ -17,8 +17,8 @@ export async function generateMetadata({}): Promise<Metadata> {
 
   return {
     title: "Portfolio",
-    description: "Portfolio of a developer",
-    keywords: "Portfolio, Developer",
+    description: "Portfolio of a professional",
+    keywords: "Portfolio, Professional",
   };
 }
 

@@ -12,7 +12,6 @@ export const Achievements = () => {
     isLoading,
   } = usePortfolioStore();
   const { isEditing } = useAppStore();
-
   return (
     <AchievementEditableWithAuth
       isEditing={isEditing}

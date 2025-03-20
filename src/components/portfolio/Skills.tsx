@@ -19,7 +19,7 @@ export const Skills = () => {
       skillsInfo={skillsInfo}
       isEditing={isEditing}
       isLoading={isLoading}
-      containerClassName="bg-white dark:bg-black"
+      containerClassName="bg-background"
       sliderIconClassName={SliderIconType.TINY_THUMB}
     />
   );
